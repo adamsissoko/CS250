@@ -17,17 +17,25 @@ This repository is more than just a collection of code; it’s a demonstration o
 
 - **Developer and Tester**: I led the software development phase with a keen focus on employing robust coding practices. This was accompanied by rigorous debugging routines and quality assurance testing, ensuring the delivery of a polished and reliable final product.
 
+#### Innovative Feature Implementation
+
+Throughout the development process, I also ventured into the incorporation of innovative features that go beyond traditional Agile and Scrum methodologies. This involved experimenting with Artificial Intelligence for user recommendations and Blockchain for secure transaction history within the project. By embracing cutting-edge technologies, the project not only fulfilled basic requirements but also positioned itself ahead of the curve, offering features that could potentially revolutionize the industry standards.
+
 #### Comprehensive Documentation and Deliverables
 
 This repository features a thoroughly detailed Sprint Retrospective document that serves as a postmortem for each sprint cycle. It offers summaries, critical insights, and in-depth analyses concerning each aspect of the project. Accompanying these documents are `.jar` files that act as living proof of the project's capabilities, serving as executable examples of the project’s end product.
 
-#### Skill Development and Key Learnings
+#### Skill Development and Key Ideas Learned
 
 1. **User-Centric Design**: My experience honed my skills in interpreting user needs and translating them into concrete development tasks. This focus on the end-user culminated in a product that exceeds expectations in terms of usability.
 
 2. **User Interface Excellence**: Beyond developing backend functionalities, I dedicated considerable effort toward crafting a seamless, intuitive user interface. This acknowledges that user satisfaction is deeply linked to front-end experience, not just backend prowess.
 
 3. **Team Dynamics and Communication**: Through active participation in a team-oriented setting, I have acquired invaluable skills in effective and transparent communication. These skills were instrumental in creating an environment conducive to constructive feedback and rapid iteration.
+
+#### Code Quality and Optimization
+
+Maintaining high code quality was another crucial focus area throughout the project. Static and dynamic code analysis tools were employed alongside peer code reviews to ensure code cleanliness and adherence to best practices. Various profiling tools were also used to optimize performance bottlenecks, resulting in a project that is not just functionally rich but also highly optimized.
 
 #### Technical Proficiencies Acquired
 
