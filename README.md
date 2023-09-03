@@ -1,4 +1,3 @@
-
 <h1 align="center">Agile Software Development: A Comprehensive Case Study</h1>
 <p align="center">By Adam Sissoko</p>
 
